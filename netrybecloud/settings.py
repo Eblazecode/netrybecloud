@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-folhiap=(e)q#-8da4vt+8$wjh%26+o1&qg_il()^_3bb_&2hv
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','netrybeapp.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','netrybeapp.herokuapp.com']
 
 
 # Application definition
