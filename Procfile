@@ -1,1 +1,1 @@
-web: gunicorn netrybecloud.wsgi 
+web: gunicorn netrybeapp.wsgi 
